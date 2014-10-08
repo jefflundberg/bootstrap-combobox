@@ -15,6 +15,10 @@
 .combobox-container:not(.combobox-selected) .combobox-remove {
   display: none;
 }
+.typeahead {
+  width: 100%;
+  max-width: 100%;
+}
 .typeahead-long {
   max-height: 300px;
   overflow-y: auto;
